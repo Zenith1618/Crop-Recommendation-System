@@ -33,4 +33,5 @@ The Crop Recommendation dataset consists of 2200 data points, with each datapoin
 7. rainfall - rainfall in mm
 
 **Target Variable**
+
 Label - What crop is suited for the given values
