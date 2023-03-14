@@ -20,7 +20,7 @@ Open the crop_recommendation.ipynb file in colab and run all the command in orde
 
 ### Data
 
-The Crop Recommendation dataset consists of 2200 data points, with each datapoint having 7 features. This dataset found on the [Kaggle](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset).
+The Crop Recommendation dataset consists of 2200 data points, with each datapoint having 7 features. This dataset can be found on the [Kaggle](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset).
 
 **Features**
 
